@@ -22,6 +22,11 @@
         "type": "Text",
         "text": "This layout is created in JSON aka SDUI",
         "color": "#ff5370"
+      },
+      {
+        "type": "Text",
+        "text": "Another text",
+        "color": "#c792ea"
       }
     ]
   }
