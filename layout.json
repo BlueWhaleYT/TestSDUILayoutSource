@@ -1,0 +1,28 @@
+[
+  {
+    "type": "Column",
+    "verticalArrangement": "center",
+    "horizontalAlignment": "center",
+    "children": [
+      {
+        "type": "Row",
+        "verticalAlignment": "center",
+        "children": [
+          {
+            "type": "Text",
+            "text": "Hello World"
+          },
+          {
+            "type": "Button",
+            "text": "Click me"
+          }
+        ]
+      },
+      {
+        "type": "Text",
+        "text": "This layout is created in JSON aka SDUI",
+        "color": "#ff5370"
+      }
+    ]
+  }
+]
