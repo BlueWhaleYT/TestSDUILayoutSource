@@ -18,13 +18,8 @@
       },
       {
         "type": "Text",
-        "text": "This layout is created in JSON aka SDUI",
-        "color": "#ff5370"
-      },
-      {
-        "type": "Text",
-        "text": "made by BlueWhaleYT, see my personal blog for guides of implementing Server-Driven UI in Jetpack Compose.",
-        "color": "#79ddff"
+        "text": "This layout is created in JSON for SDUI in Compose",
+        "color": "#82aaff"
       }
     ]
   }
