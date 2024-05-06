@@ -25,8 +25,8 @@
       },
       {
         "type": "Text",
-        "text": "Another text",
-        "color": "#c792ea"
+        "text": "made by BlueWhaleYT, see my personal blog for guides of implementing Server-Driven UI in Jetpack Compose.",
+        "color": "#79ddff"
       }
     ]
   }
