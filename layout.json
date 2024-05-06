@@ -1,8 +1,6 @@
 [
   {
     "type": "Column",
-    "verticalArrangement": "center",
-    "horizontalAlignment": "center",
     "children": [
       {
         "type": "Row",
